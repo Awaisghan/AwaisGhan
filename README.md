@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer & Data Scientist | Full Stack Web Developer Python, Django, SQL, React | Turning data into insights and systems
+Full Stack Web Developer Python, Django, SQL, React, Node, Express , Nest js | Turning data into insights and systems
 
 
 ## 🌐 Socials:
